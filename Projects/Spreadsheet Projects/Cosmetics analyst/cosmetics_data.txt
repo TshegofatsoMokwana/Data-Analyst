@@ -1,0 +1,4 @@
+You are a data analyst at a cosmetics company.
+Clean the data by getting rid of errors and duplicates. 
+Use functions such as LEFT and RIGHT, MID, CONCATENATE and TRIM.
+After cleaning the data, represent the data in a visualization.
